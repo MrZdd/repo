@@ -1,8 +1,8 @@
 Origin: Miku的软件源
-Label: Tccpg
+Label: Miku(交行越狱检测屏蔽插件)
 Suite: stable
 Version: 1.0
-Codename: Tccpg
+Codename: Miku
 Architectures: iphoneos-arm
-Components: main
+Components: 屏蔽检测
 Description: Miku的软件源
