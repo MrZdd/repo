@@ -4,5 +4,6 @@ Suite: stable
 Version: 1.0
 Codename: Miku
 Architectures: iphoneos-arm
+Section: 工具
 Components: 软件源
 Description: Miku的软件源
