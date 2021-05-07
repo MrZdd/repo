@@ -1,27 +1,29 @@
 Package: com.MiKu.BankofCommunicationsTweak
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
+Maintainer: Miku
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.MiKu.BankofCommunicationsTweak_0.1-1_iphoneos-arm.deb
-Size: 19290
-MD5sum: 0597a582a5c6bc168d19f734e7ebb11b
-SHA1: b903a8c246b4892a6e17c26ab28c4ca4f86b9390
-SHA256: 48f6bc1c18ab6f1ee81cc70fa37d38deef09c319120f306c4a31aec9b2ad291d
+Filename: ./debs/com.MiKu.BankofCommunicationsTweak_0.2_iphoneos-arm.deb
+Size: 41060
+MD5sum: 6436bbbc792d808996e57b2c0a5ca58b
+SHA1: c72dde427969635e5e3411709aad12396e06ac71
+SHA256: 0f9c37387849c367308708a49d9db1c66009c95c79067f86acd913f08bdbb531
 Section: 小工具
 Priority: optional
-Description: 屏蔽越狱检测
+Description: 交通银行屏蔽越狱检测
 Author: Baby Miku
 Name: BankofCommunicationsTweak
 
 Package: com.MiKu.youkuRemoveAdvertising
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
+Maintainer: Miku
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.MiKu.youkuRemoveAdvertising_0.1-1_iphoneos-arm.deb
-Size: 15412
-MD5sum: 13bcacb3dc82fd567abd0241ba44e05e
-SHA1: 3b013fe4806767126f77c67678761611f7d0e4ac
-SHA256: aefac823805938385a5f1806edca84e0cdd0f79bca9025148e55f23a4fdeef69
+Filename: ./debs/com.MiKu.youkuRemoveAdvertising_0.2_iphoneos-arm.deb
+Size: 32454
+MD5sum: 8d61e3d51d7580dbc6ea52fa0d7d5022
+SHA1: 3e1171c5daff562f9109cfb62c4c2d85cae53431
+SHA256: 5edb0f9b60caaa21f725bd4f52bb3e18e19ceb4d7319da5ace465daa79531463
 Section: 小工具
 Priority: optional
 Description: 去除优酷广告
